@@ -1,1 +1,2 @@
 I am creating a file1.txt programatically
+add a second line of text
